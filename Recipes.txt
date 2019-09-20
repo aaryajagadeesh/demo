@@ -6,9 +6,11 @@ Welcome to Aarya's kitchen
 payasam
 pasta
 fried rice
-
 beans
 pizza
+
+burger
+cutlet
 
 
 thank you!!!
